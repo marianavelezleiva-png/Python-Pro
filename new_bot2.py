@@ -117,4 +117,4 @@ async def helpme(ctx):
     await ctx.send(embed=embed)
 
 # ------------------- EJECUCIÓN -------------------
-bot.run("MTQyMzA3MTQ3NzM1OTU3NTE1Mg.GR-8u_.eDrtdJQ7XcaCg0Eqinp0d3ly11fXijEbhAaLw4")
+bot.run("Coloca tu token aquí")
